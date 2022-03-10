@@ -1,4 +1,4 @@
-# ICS20-Assignment-1-html-2-
+# ICS20-Assignment-1-html-2
 
 [![GitHub's Super Linter](https://github.com/AvaVenturino/ICS20-Assignment-1-html-2-/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/AvaVenturino/ICS20-Assignment-1-html-2-/actions)
 
