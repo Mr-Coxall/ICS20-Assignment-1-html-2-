@@ -20,3 +20,7 @@ p {
   padding-bottom: 20pt;
   padding-left: 1pt;
 }
+
+body {
+  background-color: lightblue;
+}
